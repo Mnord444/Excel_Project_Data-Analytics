@@ -9,6 +9,6 @@ compensated.
 ## Salary Analysis
 As a former job seeker, I've always been suprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set
 out to understand what skills top employers request and how to land more pay.   
-[Checkout my work here](Project%202)  
-![Top Skills GitHub](https://github.com/user-attachments/assets/dcf98cb0-3f24-4390-8beb-55e8ed13dc57)  
+[Checkout my work here](Project%202)   
 ![Skills vs Money GitHub](https://github.com/user-attachments/assets/d880397d-b01e-4496-bb57-0195b0940f8a)
+![Top Skills GitHub](https://github.com/user-attachments/assets/dcf98cb0-3f24-4390-8beb-55e8ed13dc57) 
