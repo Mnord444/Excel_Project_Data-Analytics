@@ -12,6 +12,6 @@ As a former job seeker, I've always been suprised by the lack of data exploring 
 out to understand what skills top employers request and how to land more pay.   
 [Checkout my work here](Project%202)  
 
-![Skills vs Money GitHub](https://github.com/user-attachments/assets/d880397d-b01e-4496-bb57-0195b0940f8a)  
-![Top skills](https://github.com/user-attachments/assets/0c1bb57d-88e5-4e51-adbc-5093c3d76e08)
+![Top Skills](https://github.com/user-attachments/assets/f165581e-6641-4bb8-a245-b4f2c2676c0c)   
 
+![Skills vs Money](https://github.com/user-attachments/assets/c9ea82b0-d982-46c9-a003-0935bf65b2ac)
