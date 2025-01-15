@@ -24,7 +24,9 @@ The following Excel skills were utilized for this analysis:
 ## Data Jobs Dataset  
 The dataset used for this project contains real-world data science job information for 2024.  
 
-## 🔍 Skill: Power Query (ETL)  
+# 1️⃣ Do more skills equal better pay?  
+
+## 🔍 Skill: Power Query (ETL)
 ### 📤 Extract  
   * I first used Power Query to extract the original data and create two queries:
     - 🗂️ First on with all the data jobs information.
