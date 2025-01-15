@@ -65,3 +65,37 @@ The dataset used for this project contains real-world data science job informati
         commandhigher market value.
     
     ![Skills vs Money](https://github.com/user-attachments/assets/ab396a86-ae55-4d1e-8d0c-603dd6ad6d25)
+
+# 2️⃣ What are the salaries for data jobs in different regions?  
+
+## 🧮 Skills: PivotTables & DAX  
+
+📈 Pivot Table  
+  - 🔢 I created a Pivot Table using the Data Model I created with Power Pivot.
+  - 📊 I moved the job_title_short to the rows area and salary_year_avg into the values area.
+  - 🧮 Then I added a new measure to calculate the median salary for jobs in the United States.
+
+     ![DAX_median_us_job_salary](https://github.com/user-attachments/assets/f1d068fe-5fd2-4671-ae60-df102ae2537c)
+  
+  - 🧮 I used a similar measure to calculate median salary
+    
+     ![DAX_median_salary](https://github.com/user-attachments/assets/19268b2b-b872-47d0-921d-bb89f6239cb4)
+
+## 📊 Analysis  
+
+### 💡Insights  
+  * 📝 Job roles like Senior Data Engineer and Data Scientist command higher median salaries both in the US and internationally,
+        showcasing the global demand for high-level data expertise.
+
+  * 💰 The salary desparitybetween US and Non-US roles is particularly noticable in high-tech jobs, which might be influenced by the
+       concentration of tech industries in the US.
+       
+  ![Median_salary_non_US](https://github.com/user-attachments/assets/2547409f-91b0-4f20-bcbe-994d11d3e4f9)  
+
+🤔 So What  
+
+   - Thesesalary insights are important for planning and salary negotiations, helping professionals and companies align their offers with 
+     market standards while considering geographical variations.
+
+
+# 3️⃣ What are the top skills of data professionals?
