@@ -85,12 +85,12 @@ The dataset used for this project contains real-world data science job informati
 
 ### 💡Insights  
   * 📝 Job roles like Senior Data Engineer and Data Scientist command higher median salaries both in the US and internationally,
-        showcasing the global demand for high-level data expertise.
+    showcasing the global demand for high-level data expertise.
 
   * 💰 The salary desparitybetween US and Non-US roles is particularly noticable in high-tech jobs, which might be influenced by the
-       concentration of tech industries in the US.
+    concentration of tech industries in the US.
        
-  ![Median_salary_non_US](https://github.com/user-attachments/assets/2547409f-91b0-4f20-bcbe-994d11d3e4f9)  
+      ![Median_salary_non_US](https://github.com/user-attachments/assets/2547409f-91b0-4f20-bcbe-994d11d3e4f9)  
 
 **🤔 So What**  
 
@@ -110,13 +110,13 @@ The dataset used for this project contains real-world data science job informati
 
 * I created a relationship between my two tables using the job_id column.
   
- ![3_data_model](https://github.com/user-attachments/assets/92d66587-d6b8-4b5b-9a4a-32ec1a0bf96b)  
+  ![3_data_model](https://github.com/user-attachments/assets/92d66587-d6b8-4b5b-9a4a-32ec1a0bf96b)  
 
 **📜Power Pivot Menu**  
 
 * The Power Pivot menu was used to refine my data model and make it easy to create measures.
 
-  ![3_power_pivot_menu](https://github.com/user-attachments/assets/bc51e1a2-03ac-46e6-bf64-f121622630e9)
+   ![3_power_pivot_menu](https://github.com/user-attachments/assets/bc51e1a2-03ac-46e6-bf64-f121622630e9)
 
 ## 📊 Analysis
 
